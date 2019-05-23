@@ -18,7 +18,7 @@ public class FtpUtil {
     //用户名
     private static final String FTP_USERNAME = "Engine";
     //密码
-    private static final String FTP_PASSWORD = "lvguanshao1314";
+    private static final String FTP_PASSWORD = "ly1314";
     //图片路径
     public final String FTP_BASEPATH = "/file/";
     private static FTPClient ftpClient = null;
